@@ -4,7 +4,7 @@ A smooth, animated digital clock with neumorphic design inspired by a Reddit pos
 
 ## Demo
 
-📹 **[View Demo Video](./Screen%20Recording%202025-11-04%20at%205.43.09%20PM.mov)** - Click to download and watch the animated clock in action
+📹 https://github.com/user-attachments/assets/4bc4dc00-3199-45a2-96b4-3afd10d8f160 
 
 *The demo shows smooth digit transitions, neumorphic design, and real-time clock functionality*
 
