@@ -1,12 +1,16 @@
 
 
 
+
+
+
 # Animated Clock
 
 A smooth, animated digital clock with neumorphic design inspired by a Reddit post showing a clock hitting midnight.
 
 ## Demo
-https://github.com/user-attachments/assets/0ff884fb-3d3a-4ffc-989e-f151cefd183d
+
+https://github.com/user-attachments/assets/25c0c7c9-67ea-4dcc-b8e4-e691c0125a9d
 
 
 *The demo shows smooth digit transitions, neumorphic design, and real-time clock functionality*
