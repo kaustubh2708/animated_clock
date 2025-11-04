@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated Clock</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Tried to recreate this animation I saw on Reddit https://www.reddit.com/r/OddSatisfying/comments/swygni/clock_hitting_midnight/ -->
+
+    <div class="buttons">
+      <button class="start">Start</button>
+      <button class="stop">Stop</button>
+    </div>
+
+    <main class="container">
+      <section class="digits digits--hours">
+        <div class="digit digit--tens">
+          <span class="marker"></span>
+        </div>
+        <div class="digit digit--units">
+          <span class="marker"></span>
+        </div>
+      </section>
+      
+      <section class="digits digits--minutes">
+        <div class="digit digit--tens">
+          <span class="marker"></span>
+        </div>
+        <div class="digit digit--units">
+          <span class="marker"></span>
+        </div>
+      </section>
+      
+      <section class="digits digits--seconds">
+        <div class="digit digit--tens">
+          <span class="marker"></span>
+        </div>
+        <div class="digit digit--units">
+          <span class="marker"></span>
+        </div>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
